@@ -39,7 +39,7 @@ body {
     display: flex;
     align-items: center;
     gap: 2rem; 
-    min-height: 100px; 
+    min-height: 50px; 
 }
 
 .logo {
